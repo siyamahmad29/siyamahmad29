@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web developer <br>I'm currently working on PHP,LAravel,React<br>
+Hey I am Siyam <br>I am passionate and believe in best practices<br>and modern trends in web development.<br>Your site design is the first thing your customers see.<br>Thats why I design sites that reflect your style and industry.<br>
 
 
 ## 🌐 Socials:
