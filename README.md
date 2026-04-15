@@ -1,21 +1,59 @@
-# 💫 About Me:
-Hey I am Siyam <br>I am passionate and believe in best practices<br>and modern trends in web development.<br>Your site design is the first thing your customers see.<br>Thats why I design sites that reflect your style and industry.<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mehedi+Hasan!;Web+Developer!+🧑‍💻;" />
+</h1>
 
+<h3 align="center">An aspiring Web Developer from Khulna 🇧🇩</h3>
+<br/>
+<div align="center">
+ 
+ 👨🏻‍💻 I’m currently working on **Fiverr and Upwork**
+ 
+ 📖 I’m currently learning **Software Engineering Fundamentals**
+ 
+ 🫨 Fun fact **The first computer “bug” was an actual real-life bug**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mirsiyam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirsiyam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mirsiyam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@mirsiyam.com) 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:hello@mehedims.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehedibs-blog/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://mehedims.com" target="_blank">
+   <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+</a>
+</div>
 
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siyamahmad29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=siyamahmad29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siyamahmad29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ <hr/>
+ 
+<h2 align="center">Languages-Frameworks-Tools 💻</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,html,css,bootstrap,mui,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siyamahmad29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>My Contributions ✅</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/siyamahmad29/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+
+<hr/>
+<h2 align="center">My Stats 📊</h2>
+<br>
+<div align=center>
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=siyamahmad29&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt=""/>
+  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=siyamahmad29&theme=vue-dark&hide_border=true" alt=""/>
+  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamahmad29&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt=""/>
+</div>
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siyamahmad29&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -
+![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)
+[![](https://visitcount.itsvg.in/api?id=siyamahmad29&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
