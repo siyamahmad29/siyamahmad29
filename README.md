@@ -1,38 +1,40 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Siyam+Ahmad!;Web+Developer!+🧑‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mir+Siyam+Ahmad!;Full-Stack+Web+Developer!+🧑‍💻;Founder+of+TechZ+IT!+🚀" />
 </h1>
 
-<h3 align="center">An aspiring Web Developer from Khulna 🇧🇩</h3>
+<h3 align="center">A Full-Stack Web Developer & Founder from Khulna 🇧🇩</h3>
 <br/>
 <div align="center">
  
- 👨🏻‍💻 I’m currently working on **Fiverr and Upwork**
+ 👨🏻‍💻 I’m currently building SaaS platforms and working at **TechZ IT**
  
- 📖 I’m currently learning **Software Engineering Fundamentals**
+ 📖 I’m currently exploring **Advanced SaaS architectures & modern UI/UX design**
  
- 🫨 Fun fact **The first computer “bug” was an actual real-life bug**
+ 🫨 Fun fact: **The first computer “bug” was an actual real-life moth trapped in a relay**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:hello@mehedims.com" target="_blank">
+  <a href="mailto:contact@mirsiyam.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/mehedibs-blog/" target="_blank">
+  <a href="https://www.linkedin.com/in/mir-siyam-ahmad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://mehedims.com" target="_blank">
-   <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="https://mirsiyam.com" target="_blank">
+   <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=web&logoColor=white" target="_blank" />
 </a>
 </div>
 
  <hr/>
  
-<h2 align="center">Languages-Frameworks-Tools 💻</h2>
+<h2 align="center">Languages, Frameworks & Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,html,css,bootstrap,mui,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <!-- Frontend & Design -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" /><br><br>
+    <!-- Backend, DB & Tools -->
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,django,wordpress,git,github,vscode" /><br>
 </div>
 
 <br/>
@@ -40,6 +42,7 @@
 
 <div align="center">
   <h2>My Contributions ✅</h2>
+  <!-- Make sure you have set up the GitHub Action to generate this snake animation in your repository -->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/siyamahmad29/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
@@ -48,12 +51,18 @@
 <h2 align="center">My Stats 📊</h2>
 <br>
 <div align=center>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=siyamahmad29&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt=""/>
-  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=siyamahmad29&theme=vue-dark&hide_border=true" alt=""/>
-  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamahmad29&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt=""/>
+  <img width=49% src="https://github-readme-stats.vercel.app/api?username=siyamahmad29&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Siyam's GitHub Stats"/>
+  <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=siyamahmad29&theme=vue-dark&hide_border=true" alt="Siyam's GitHub Streak"/>
+  <br/><br/>
+  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamahmad29&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 <br/>
 
 ---
-![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)
-[![](https://visitcount.itsvg.in/api?id=siyamahmad29&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg" alt="StandWithPalestine" />
+  <br/><br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=siyamahmad29&label=Profile%20Views&icon=5&pretty=true" alt="Profile Views" />
+  </a>
+</div>
